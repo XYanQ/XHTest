@@ -18,6 +18,8 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     NSLog(@"哈哈哈哈");
+    NSString *str = @"这还是一个温暖的";
+    NSLog(@"%@",str);
 }
 
 
